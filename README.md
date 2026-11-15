@@ -1,3 +1,29 @@
+# PLFM_RADAR
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Open-source, low-cost 10.5 GHz PLFM phased array RADAR system
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+开源低成本 10.5 GHz PLFM 相控阵雷达系统。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 [![GitHub stars](https://img.shields.io/github/stars/NawfalMotii79/PLFM_RADAR?style=social)](https://github.com/NawfalMotii79/PLFM_RADAR/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/NawfalMotii79/PLFM_RADAR?style=social)](https://github.com/NawfalMotii79/PLFM_RADAR/network/members)
 [![GitHub watchers](https://img.shields.io/github/watchers/NawfalMotii79/PLFM_RADAR?style=social)](https://github.com/NawfalMotii79/PLFM_RADAR/watchers)
